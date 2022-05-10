@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\tbogm\Desktop\BroncoSat-1_Battery_Board\BroncoSat-1_Battery_Board\Bat_Board_v3\Bat_Board_v3.kicad_sch</source>
+    <date>5/3/2022 9:25:18 PM</date>
+    <tool>Eeschema (6.0.2)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Bat_Board_v3.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BAT1">
+      <value>1042_SMT</value>
+      <footprint>Bat_Board_v3:1042</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="1042_SMT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c401e9c6-1deb-4979-99be-7c801c952098</tstamps>
+    </comp>
+    <comp ref="BAT2">
+      <value>1042_SMT</value>
+      <footprint>Bat_Board_v3:1042</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="1042_SMT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd1cff81-9d8a-4511-96d6-4ddb79484001</tstamps>
+    </comp>
+    <comp ref="BAT3">
+      <value>1042_SMT</value>
+      <footprint>Bat_Board_v3:1042</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="1042_SMT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cc0e615-05a0-4f42-a208-4011ba8ef841</tstamps>
+    </comp>
+    <comp ref="BAT4">
+      <value>1042_SMT</value>
+      <footprint>Bat_Board_v3:1042</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="1042_SMT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>751d823e-1d7b-4501-9658-d06d459b0e16</tstamps>
+    </comp>
+    <comp ref="BAT5">
+      <value>1042_SMT</value>
+      <footprint>Bat_Board_v3:1042</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="1042_SMT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bbde53d-6894-4e18-9480-84a6a26d5f6b</tstamps>
+    </comp>
+    <comp ref="BAT6">
+      <value>1042_SMT</value>
+      <footprint>Bat_Board_v3:1042</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="1042_SMT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80095e91-6317-4cfb-9aea-884c9a1accc5</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100uF</value>
+      <footprint>Bat_Board_v3:C_1206_(M3216)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="CC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a48f5fff-52e4-4ae8-8faa-7084c7ae8a28</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100uF</value>
+      <footprint>Bat_Board_v3:C_1206_(M3216)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="CC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd29cce5-2d5d-4676-956a-df49a3c13d23</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>22uF</value>
+      <footprint>Bat_Board_v3:C_0805_(M2012)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="CC0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb5d2eae-a96e-45dd-89aa-125fe22cc2fa</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>22uF</value>
+      <footprint>Bat_Board_v3:C_0805_(M2012)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="CC0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b44c0167-50fe-4c67-94fb-5ce2e6f52544</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Bat_Board_v3:C_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="CC0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f08895dc-4dcb-4aef-a39b-5a08864cdaaf</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Bat_Board_v3:C_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="CC0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93ac15d8-5f91-4361-acff-be4992b93b51</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Bat_Board_v3:C_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="CC0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b456cffc-d9d7-4c91-91f2-36ec9a65dd1b</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Bat_Board_v3:C_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="CC0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74855e0d-40e4-4940-a544-edae9207b2ea</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Bat_Board_v3:C_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="CC0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1ba92d5-0d41-4be9-b483-47d08dc1785d</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Bat_Board_v3:C_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="CC0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2a0f5cc-b5aa-4e3e-8d85-23bdc2f59aec</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>8.2nF</value>
+      <footprint>Bat_Board_v3:C_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="CC0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4ef5db0-5fba-4fcd-ab64-2ef2646c5c6d</tstamps>
+    </comp>
+    <comp ref="CONN1">
+      <value>STEMMA_I2C_RASMT</value>
+      <footprint>Bat_Board_v3:JSTPH4</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="STEMMA_I2C_RASMT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8b15b51-8345-4a1d-8ecf-04fc15b9e450 91c82043-0b26-427f-b23c-6094224ddfc2</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>1X2-3.5MM</value>
+      <footprint>Bat_Board_v3:1X2-3.5MM</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="1X2-3.5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb35e3b1-aff6-41a7-9cf0-52694b95edeb</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>1X2-3.5MM</value>
+      <footprint>Bat_Board_v3:1X2-3.5MM</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="1X2-3.5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bea05d4-1dec-4cd6-aa53-302dde803254</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>JST_2PIN-SMT-RA</value>
+      <footprint>Bat_Board_v3:JST-PH-2-SMT-RA</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="JST_2PIN-SMT-RA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fd9bc4f-0ae3-42d4-a1b4-9fb1b2a0a7fd</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>JST_2PIN-SMT-RA</value>
+      <footprint>Bat_Board_v3:JST-PH-2-SMT-RA</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="JST_2PIN-SMT-RA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2295a793-dfca-4b86-a3e5-abf1834e2790</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>5.08mm Term</value>
+      <footprint>Bat_Board_v3:TERMBLOCK_508_1X2</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="TERMBLOCK_1X2_5.08MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4184668-3bdd-4cb2-a053-4f3d5e57b541</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>1X2-3.5MM</value>
+      <footprint>Bat_Board_v3:1X2-3.5MM</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="1X2-3.5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a323243c-4cab-4689-aa04-1e663cf86177</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>PINHD-1X3CB</value>
+      <footprint>Bat_Board_v3:1X03-CLEANBIG</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="PINHD-1X3CB" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78b44915-d68e-4488-a873-34767153ef98</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>PINHD-1X3CB</value>
+      <footprint>Bat_Board_v3:1X03-CLEANBIG</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="PINHD-1X3CB" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94a10cae-6ef2-4b64-9d98-fb22aa3306cc</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>3.3uH</value>
+      <footprint>Bat_Board_v3:L_2020_(M5050)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="LL2020" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3579cf2f-29b0-46b6-a07d-483fb5586322</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>IRF7458</value>
+      <footprint>Bat_Board_v3:SOIC-8</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="MOSFET_N-CHSOIC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bab6a37-1fdf-4cf8-b571-44c962ed86e9</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>IRF4758</value>
+      <footprint>Bat_Board_v3:SOIC-8</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="MOSFET_N-CHSOIC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83184391-76ed-44f0-8cd0-01f89f157bdb</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>127k</value>
+      <footprint>Bat_Board_v3:R_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="RR0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59e09498-d26e-4ba7-b47d-fece2ea7c274</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>22.1k</value>
+      <footprint>Bat_Board_v3:R_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="RR0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3198b8ca-7d11-4e0c-89a4-c173f9fcf724</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <footprint>Bat_Board_v3:R_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="RR0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c121a93-b189-409b-a104-2bdd37ff0b51</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Bat_Board_v3:R_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="RR0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2db53d0-2821-4ebe-bf21-b864eac8ca44</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>330</value>
+      <footprint>Bat_Board_v3:R_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="RR0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7273dd21-e834-41d3-b279-d7de727709ca</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>330</value>
+      <footprint>Bat_Board_v3:R_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="RR0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c512fed3-9770-476b-b048-e781b4f3cd72</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>Bat_Board_v3:R_0603_(M1608)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="RR0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9d4de74-d246-495d-8b63-12ab2133d6d6</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>0.01</value>
+      <footprint>Bat_Board_v3:R_2512_(M6332)</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="RR2512" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a239fd1d-dfbb-49fd-b565-8c3de9dcf42b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>R5460N233</value>
+      <footprint>Bat_Board_v3:SOT-23-6</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="R5460N233" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c68b844-c861-46b7-b734-0242168a4220</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TPS54626</value>
+      <footprint>Bat_Board_v3:14-HTSSOP</footprint>
+      <libsource lib="Bat_Board_v3-eagle-import" part="TPS54626" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Bat_Board_v3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72366acb-6c86-4134-89df-01ed6e4dc8e0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Bat_Board_v3-eagle-import" part="1042_SMT">
+      <fields>
+        <field name="Reference">BAT</field>
+        <field name="Value">1042_SMT</field>
+        <field name="Footprint">Bat_Board_v3:1042</field>
+      </fields>
+      <pins>
+        <pin num="NEG" name="NEG" type="power_in"/>
+        <pin num="POS" name="POS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="1X2-3.5MM">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1X2-3.5MM</field>
+        <field name="Footprint">Bat_Board_v3:1X2-3.5MM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="CC0603">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CC0603</field>
+        <field name="Footprint">Bat_Board_v3:C_0603_(M1608)</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="A" type="bidirectional"/>
+        <pin num="P$2" name="C" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="CC0805">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CC0805</field>
+        <field name="Footprint">Bat_Board_v3:C_0805_(M2012)</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="A" type="bidirectional"/>
+        <pin num="P$2" name="C" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="CC1206">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CC1206</field>
+        <field name="Footprint">Bat_Board_v3:C_1206_(M3216)</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="A" type="bidirectional"/>
+        <pin num="P$2" name="C" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="JST_2PIN-SMT-RA">
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">JST_2PIN-SMT-RA</field>
+        <field name="Footprint">Bat_Board_v3:JST-PH-2-SMT-RA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="2" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="LL2020">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">LL2020</field>
+        <field name="Footprint">Bat_Board_v3:L_2020_(M5050)</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="A" type="bidirectional"/>
+        <pin num="P$2" name="C" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="MOSFET_N-CHSOIC">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MOSFET_N-CHSOIC</field>
+        <field name="Footprint">Bat_Board_v3:SOIC-8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+        <pin num="4" name="G" type="passive"/>
+        <pin num="5" name="D" type="passive"/>
+        <pin num="6" name="D" type="passive"/>
+        <pin num="7" name="D" type="passive"/>
+        <pin num="8" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="PINHD-1X3CB">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">PINHD-1X3CB</field>
+        <field name="Footprint">Bat_Board_v3:1X03-CLEANBIG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="R5460N233">
+      <fields>
+        <field name="Value">R5460N233</field>
+        <field name="Footprint">Bat_Board_v3:SOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DOUT" type="bidirectional"/>
+        <pin num="2" name="COUT" type="bidirectional"/>
+        <pin num="3" name="V-" type="bidirectional"/>
+        <pin num="4" name="VC" type="bidirectional"/>
+        <pin num="5" name="VDD" type="bidirectional"/>
+        <pin num="6" name="VSS" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="RR0603">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RR0603</field>
+        <field name="Footprint">Bat_Board_v3:R_0603_(M1608)</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="A" type="bidirectional"/>
+        <pin num="P$2" name="C" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="RR2512">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RR2512</field>
+        <field name="Footprint">Bat_Board_v3:R_2512_(M6332)</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="A" type="bidirectional"/>
+        <pin num="P$2" name="C" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="STEMMA_I2C_RASMT">
+      <fields>
+        <field name="Reference">CONN</field>
+        <field name="Value">STEMMA_I2C_RASMT</field>
+        <field name="Footprint">Bat_Board_v3:JSTPH4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="V+" type="passive"/>
+        <pin num="3" name="SDA" type="passive"/>
+        <pin num="4" name="SCL" type="passive"/>
+        <pin num="NC1" name="MT" type="bidirectional"/>
+        <pin num="NC2" name="MT" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="TERMBLOCK_1X2_5.08MM">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">TERMBLOCK_1X2_5.08MM</field>
+        <field name="Footprint">Bat_Board_v3:TERMBLOCK_508_1X2</field>
+      </fields>
+      <pins>
+        <pin num="P$3" name="1" type="passive"/>
+        <pin num="P$4" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bat_Board_v3-eagle-import" part="TPS54626">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS54626</field>
+        <field name="Footprint">Bat_Board_v3:14-HTSSOP</field>
+      </fields>
+      <pins>
+        <pin num="P1" name="VO" type="input"/>
+        <pin num="P2" name="FB" type="power_in"/>
+        <pin num="P3" name="VREG5" type="input"/>
+        <pin num="P4" name="SS" type="output"/>
+        <pin num="P5" name="GND" type="power_in"/>
+        <pin num="P6" name="PG" type="input"/>
+        <pin num="P7" name="EN" type="input"/>
+        <pin num="P8" name="PGND@0" type="power_in"/>
+        <pin num="P9" name="PGND@1" type="power_in"/>
+        <pin num="P10" name="SW1" type="output"/>
+        <pin num="P11" name="SW2" type="output"/>
+        <pin num="P12" name="BOOST" type="power_in"/>
+        <pin num="P13" name="VIN1" type="input"/>
+        <pin num="P14" name="VIN2" type="input"/>
+        <pin num="PPAD" name="PGND@0" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Bat_Board_v3-eagle-import">
+      <uri>C:\Users\tbogm\Desktop\BroncoSat-1_Battery_Board\BroncoSat-1_Battery_Board\Bat_Board_v3/Bat_Board_v3-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/5V">
+      <node ref="C3" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="C4" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="CONN1" pin="3" pinfunction="SDA" pintype="passive"/>
+      <node ref="CONN1" pin="4" pinfunction="SCL" pintype="passive"/>
+      <node ref="J5" pin="P$4" pinfunction="2" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L1" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="R1" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U3" pin="P1" pinfunction="VO" pintype="input"/>
+    </net>
+    <net code="2" name="/B-">
+      <node ref="BAT1" pin="NEG" pinfunction="NEG" pintype="power_in"/>
+      <node ref="BAT2" pin="NEG" pinfunction="NEG" pintype="power_in"/>
+      <node ref="BAT3" pin="NEG" pinfunction="NEG" pintype="power_in"/>
+      <node ref="C10" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="C7" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="C8" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="R8" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="6" pinfunction="VSS" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/BM">
+      <node ref="BAT1" pin="POS" pinfunction="POS" pintype="power_in"/>
+      <node ref="BAT2" pin="POS" pinfunction="POS" pintype="power_in"/>
+      <node ref="BAT3" pin="POS" pinfunction="POS" pintype="power_in"/>
+      <node ref="BAT4" pin="NEG" pinfunction="NEG" pintype="power_in"/>
+      <node ref="BAT5" pin="NEG" pinfunction="NEG" pintype="power_in"/>
+      <node ref="BAT6" pin="NEG" pinfunction="NEG" pintype="power_in"/>
+      <node ref="R6" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/EN">
+      <node ref="R4" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U3" pin="P7" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="5" name="/FB">
+      <node ref="R1" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="R2" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U3" pin="P2" pinfunction="FB" pintype="power_in"/>
+    </net>
+    <net code="6" name="/J_GND">
+      <node ref="C1" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="C11" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="C2" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="C3" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="C4" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="C6" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="CONN1" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="CONN1" pin="2" pinfunction="V+" pintype="passive"/>
+      <node ref="CONN1" pin="NC1" pinfunction="MT" pintype="bidirectional"/>
+      <node ref="J5" pin="P$3" pinfunction="1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R2" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="U3" pin="P5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="P8" pinfunction="PGND@0" pintype="power_in"/>
+      <node ref="U3" pin="P9" pinfunction="PGND@1" pintype="power_in"/>
+      <node ref="U3" pin="PPAD" pinfunction="PGND@0" pintype="power_in"/>
+    </net>
+    <net code="7" name="/PACK+">
+      <node ref="BAT4" pin="POS" pinfunction="POS" pintype="power_in"/>
+      <node ref="BAT5" pin="POS" pinfunction="POS" pintype="power_in"/>
+      <node ref="BAT6" pin="POS" pinfunction="POS" pintype="power_in"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="2" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="2" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/PACK-">
+      <node ref="C9" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="JP2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R7" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/PG">
+      <node ref="R3" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="U3" pin="P6" pinfunction="PG" pintype="input"/>
+    </net>
+    <net code="10" name="/SS">
+      <node ref="C11" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U3" pin="P4" pinfunction="SS" pintype="output"/>
+    </net>
+    <net code="11" name="/SW">
+      <node ref="C5" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="L1" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U3" pin="P10" pinfunction="SW1" pintype="output"/>
+      <node ref="U3" pin="P11" pinfunction="SW2" pintype="output"/>
+    </net>
+    <net code="12" name="/VREG5">
+      <node ref="C6" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="R3" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U3" pin="P3" pinfunction="VREG5" pintype="input"/>
+    </net>
+    <net code="13" name="/VREG_IN">
+      <node ref="C1" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="C2" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="JP1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R4" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="U3" pin="P13" pinfunction="VIN1" pintype="input"/>
+      <node ref="U3" pin="P14" pinfunction="VIN2" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(C5-PadP$2)">
+      <node ref="C5" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="U3" pin="P12" pinfunction="BOOST" pintype="power_in"/>
+    </net>
+    <net code="15" name="Net-(C7-PadP$2)">
+      <node ref="C7" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="R5" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="5" pinfunction="VDD" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="Net-(C8-PadP$2)">
+      <node ref="C8" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="R6" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="4" pinfunction="VC" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="Net-(C9-PadP$1)">
+      <node ref="C9" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="Q3" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R8" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="Net-(C10-PadP$2)">
+      <node ref="C10" pin="P$2" pinfunction="C" pintype="bidirectional"/>
+      <node ref="R7" pin="P$1" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="V-" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="Net-(Q3-Pad4)">
+      <node ref="Q3" pin="4" pinfunction="G" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="DOUT" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="Net-(Q3-Pad5)">
+      <node ref="Q3" pin="5" pinfunction="D" pintype="passive"/>
+      <node ref="Q3" pin="6" pinfunction="D" pintype="passive"/>
+      <node ref="Q3" pin="7" pinfunction="D" pintype="passive"/>
+      <node ref="Q3" pin="8" pinfunction="D" pintype="passive"/>
+      <node ref="Q4" pin="5" pinfunction="D" pintype="passive"/>
+      <node ref="Q4" pin="6" pinfunction="D" pintype="passive"/>
+      <node ref="Q4" pin="7" pinfunction="D" pintype="passive"/>
+      <node ref="Q4" pin="8" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Q4-Pad4)">
+      <node ref="Q4" pin="4" pinfunction="G" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="COUT" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>

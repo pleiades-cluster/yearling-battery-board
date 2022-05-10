@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Bat_Board_v3")(type "KiCad")(uri "$(KIPRJMOD)/Bat_Board_v3.pretty")(options "")(descr ""))
+)
